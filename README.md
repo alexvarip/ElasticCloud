@@ -1,4 +1,4 @@
-# Elastic Cloud
+## Elastic Cloud
 ### Elastic Resource Management in Cloud Computing
 
 >The purpose of the project is familiarization with cloud computing environments that offer IaaS (Infrastructure as a Service) services.
@@ -11,5 +11,6 @@ A cluster/web farm of web servers will be installed and configured that will dis
 Therefore a mechanism (load balancer) needs to be implemented, which depending on the observed workload it will dynamically change the reserved cloud resources.
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
+<br>
 
-**```The project was uploaded as it was firstly written without any code or optimization change.```**
+*The project was uploaded as it was firstly written without any code or optimization change. It was intended to work ONLY with the Okeanos Public Cloud with the use of its own API (kamaki API).*
